@@ -54,8 +54,6 @@ class AzureSingleRegion(Resource):
         if request.method == 'GET':
             output_dict = [x for x in app_json if x['name'] == request.data]
             return output_dict
-        else:
-            return {'error': 'fetch error'}
 
 
 api.add_resource(AzureRegions, '/list/azure/region/geography/')
