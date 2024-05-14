@@ -155,4 +155,4 @@ Power Bi using Azure Maps
 >[!NOTES]
 > I used the data in on the powerbi page to simulate version presence per Azure Region by importing postgres queries, etc...
 
-[Sample Dashboard](README.md)
+![Sample Dashboard](dashboard.png)
