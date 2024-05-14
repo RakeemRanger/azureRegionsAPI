@@ -56,14 +56,5 @@ ls
 pip install -r requirements.txt
 ```
 
-Once
-
-
-
-
-
-Usage: Explain how to use your API. Provide examples of requests and responses.
-
-Contributing: If you're open to contributions, explain how others can contribute to your project.
-
-License: If your project is open source, include information about the license.
+>[!NOTE]
+> Once the installation is complete we can move on to working with our RESTful API
