@@ -152,7 +152,7 @@ RawContentLength  : 106
 Use Case:
 Power Bi using Azure Maps
 
-> I used the data in on the powerbi page to simulate version presence per Azure Region by importingpostgres queries, etc...
+> I used the data in from the GET request to visualize Azure Region data in  powerbi to simulate version presence per Azure Region by importing postgres queries, etc...
 >
 
 ![Sample Dashboard](dashboard.png)
