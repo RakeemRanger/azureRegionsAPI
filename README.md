@@ -5,7 +5,7 @@
 Installation: 
 Prerequsites:
 1. Python Installed
-- [Python Installation]('https://www.python.org/downloads/')
+- [Python Installation](https://www.python.org/downloads/)
 2. Verify Installation
 ```bash
 python --version
