@@ -151,7 +151,8 @@ RawContentLength  : 106
 
 Use Case:
 Power Bi using Azure Maps
-<iframe title="infraversions" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=aa8350ac-c47a-468c-a173-e2c3859c7a10&autoAuth=true&ctid=88174e5e-2e84-4948-a4c3-d531dbbfdb49" frameborder="0" allowFullScreen="true"></iframe>
 
 >[!NOTES]
 > I used the data in on the powerbi page to simulate version presence per Azure Region by importing postgres queries, etc...
+
+[Sample Dashboard](README.md)
