@@ -1,7 +1,7 @@
 # azureRegionsAPI
 
 >[!IMPORTANT]
->Description: a simple RESTful API that returns Azure Regions and their geography (I will use this to data to display application data based on Azure Data Centers. You can visualize in Power Bi using Azure Maps, or if you have custom dashboards.This is where you can elaborate on the project's purpose. You've already provided a good start: "A simple RESTful API that returns Azure Regions and their geography. This data will be used to display application data based on Azure.")
+>Description: a simple RESTful API that returns Azure Regions and their geography (I will use this data to correlate application data as it relates to Azure Data Centers. You can visualize in Power Bi using Azure Maps, or if you have custom dashboards. Great, quick and easy API to retrieve Azure region geography and correlate to other data. Go and use in your Observability Pipelines.
 >
 
 Installation: 
