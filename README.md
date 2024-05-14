@@ -47,7 +47,7 @@ Linux/Mac
 ```bash
 ls
 ```
-[!NOTE]
+>[!NOTE]
 >Once you have verified the requirements.txt is present run:
 ```bash
 pip install -r requirements.txt
