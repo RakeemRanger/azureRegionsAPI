@@ -12,7 +12,7 @@ python --version
 ```
 
 Notes:
-As you may or may not have heard 'it is always good to run your python applications in a virtual environment (that way it dont interfere with other process' on your system.)
+As you may or may not have heard it's is always good to run your python applications in a virtual environment (that way it dont interfere with other process' on your system.)
 
 Virtual Environment Install
 Windows: 
