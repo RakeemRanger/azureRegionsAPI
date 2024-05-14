@@ -20,9 +20,9 @@ def azure_sub_locations():
     this way you enable source control, versioning, collaboration, and security best practices). 
     This function is used to get the Azure regions and their respective latitude and longitude.
     I am storing my subscription id in an CONSTANTS file which calls a env variable for security purposes.
-    you can create a environment variable by running the below command in your terminal:
+    you can create an environment variable by running the below command in your terminal:
     linux: > export AZURE_SUBSCRIPTION_ID="your_subscription_id"
-    windows: > $AZURE_SUBSCRIPTION_ID "your_subscription_id"
+    windows: > $AZURE_SUBSCRIPTION_ID = "your_subscription_id"
     '''
     creds = DefaultAzureCredential()
     sub_client = SubscriptionClient(creds,)
