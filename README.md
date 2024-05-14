@@ -153,6 +153,7 @@ Use Case:
 Power Bi using Azure Maps
 
 >[!NOTES]
-> I used the data in on the powerbi page to simulate version presence per Azure Region by importing postgres queries, etc...
+> I used the data in on the powerbi page to simulate version presence per Azure Region by importingpostgres queries, etc...
+>
 
 ![Sample Dashboard](dashboard.png)
