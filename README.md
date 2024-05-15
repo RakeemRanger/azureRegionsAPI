@@ -12,7 +12,7 @@ Prerequsites:
 ```bash
 python --version
 ```
-
+>[!NOTES]
 >As you may or may not have heard 'it is always good to run your python applications in a virtual environment (that way it dont interfere with other process' on your system.)
 >
 
@@ -75,9 +75,9 @@ Windows:
 $AZURE_SUBSCRIPTION_ID = "your_subscription_id"
 ```
 
->[!NOTES]
-Once your environment variable is set on your system (you can run the api.py file)
->
+
+>Once your environment variable is set on your system (you can run the api.py file)
+
 
 ```bash
 python .\api.py
