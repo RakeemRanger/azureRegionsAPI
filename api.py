@@ -26,7 +26,7 @@ def azure_sub_locations():
     '''
     creds = DefaultAzureCredential()
     sub_client = SubscriptionClient(creds,)
-    subscription = sub_client.subscriptions.list_locations(AZURE_SUBSCRIPTION_ID)
+    subscription = sub_client.subscriptions.list_locations(os.getenv('AZURE_SUBSCRIPTION_ID'))
     empty = []
     for location in subscription:
         empty.append({"name" : f'{location.name}', "latitude" : f'{location.latitude}', "longitude" : f'{location.longitude}'})
