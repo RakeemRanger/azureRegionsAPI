@@ -1,2 +1,5 @@
 flask
 flask_restful
+azure_core
+azure_identity
+azure_subscription
