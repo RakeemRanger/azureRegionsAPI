@@ -6,8 +6,6 @@ from flask_restful import Api, Resource
 from azure.identity import DefaultAzureCredential
 from azure.mgmt.subscription import SubscriptionClient
 
-from CONSTANTS import AZURE_SUBSCRIPTION_ID
-
 
 app = Flask(__name__)
 api = Api(app)
