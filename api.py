@@ -60,4 +60,4 @@ api.add_resource(AzureRegions, '/list/azure/region/geography/')
 api.add_resource(AzureSingleRegion, '/get/azure/region/geography/<string:location>')
 
 if __name__ == '__main__': 
-	app.run(debug=True)
+	app.run()
