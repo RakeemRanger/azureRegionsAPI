@@ -13,8 +13,7 @@ Prerequsites:
 python --version
 ```
 
->[!NOTE]
->As you may or may not have heard 'it is always good to run your python applications in a virtual environment (that way it dont interfere with other process' on your system.)
+>[!NOTE]As you may or may not have heard 'it is always good to run your python applications in a virtual environment (that way it dont interfere with other process' on your system.)
 >
 
 3. Virtual Environment Install
