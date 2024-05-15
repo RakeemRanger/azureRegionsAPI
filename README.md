@@ -75,6 +75,7 @@ Windows:
 ```bash
 $AZURE_SUBSCRIPTION_ID = "your_subscription_id"
 ```
+
 >[!NOTES]
 > Once your environment variable is set on your system (you can run the api.py file)
 >
